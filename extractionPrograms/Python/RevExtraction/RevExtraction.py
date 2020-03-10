@@ -2,7 +2,7 @@ from CardExtractor import *
 import uuid
 import os
 
-temp = "DMR-17_Burning_Dogiragon!!"
+temp = "DMX-20_Deck_Ultimate_Perfection!!_Due-Max_160_~Revolution_%26_Invasion~"
 cardLimit = 1000
 
 def extractSet(setName = "kek", cardLimit=1000):
@@ -87,5 +87,6 @@ def createSetXML(setName):
 
 
 
-createSetXML(temp)
+createSetXML("DMX-21_Masters_Chronicle_Pack:_Comic_of_Heroes")
 # extractSet(temp)
+
