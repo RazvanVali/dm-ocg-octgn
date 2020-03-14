@@ -38,6 +38,15 @@ def extractCardData(cardName, setName=""):
 	if civ is None:
 		print("WARNING: No civ found! Assigning Zero.")
 		civ = "Zero"
+	#GET ALL THE CIVS!!
+	i = 2
+	while True:
+		nextCiv = getAttribute("civilization" + str(i), html)
+		if nextCiv is None:
+			break
+		else:
+			civ = civ + "/" + nextCiv
+			i = i + 1
 
 	power = getAttribute("power", html)
 	if power is None:
