@@ -752,6 +752,17 @@
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="b105/???" />
 		</card>
+		<card name="S Maneki" id="8c86be97-4829-4a1c-a76a-0789765075f7">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Cyber Virus Kai" />
+			<property name="Power" value="4000" />
+			<property name="Rules" value="Whenever this creature would battle, you may play Rock-Paper-Scissors instead. The losing player destroys their creature that would have battled.&#xd;&#xa;Whenever your opponent throws rock during Rock-Paper-Scissors, you may draw a card." />
+			<property name="Rarity" value="No Rarity" />
+			<property name="Number" value="b106/???" />
+		</card>
 		<card name="King Poisonous Mushroom" id="34f2fb6e-6de2-404d-96fe-91f511551887">
 			<property name="Format" value="OCG" />
 			<property name="Civilization" value="Nature" />
