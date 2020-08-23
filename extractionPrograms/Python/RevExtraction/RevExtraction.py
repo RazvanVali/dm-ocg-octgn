@@ -2,10 +2,10 @@ from CardExtractor import *
 import uuid
 import os
 
-temp = "DMX-20_Deck_Ultimate_Perfection!!_Due-Max_160_~Revolution_%26_Invasion~"
+temp = "Japanese_Promotional_Cards_Gallery_(Year_11-15)#Year_15"
 cardLimit = 1000
 
-def extractSet(setName = "kek", cardLimit=1000):
+def extractSet(setName = "Japanese_Promotional_Cards_Gallery_(Year_11-15)#Year_15", cardLimit=1000):
 
 	setQuery = 'https://duelmasters.fandom.com/api.php?action=query&prop=revisions&rvprop=content&format=php&titles=' + setName
 	with urllib.request.urlopen(setQuery) as response:
@@ -87,6 +87,6 @@ def createSetXML(setName):
 
 
 
-createSetXML("DMX-21_Masters_Chronicle_Pack:_Comic_of_Heroes")
+createSetXML("Japanese_Promotional_Cards_Gallery_(Year_11-15)#Year_15")
 # extractSet(temp)
 

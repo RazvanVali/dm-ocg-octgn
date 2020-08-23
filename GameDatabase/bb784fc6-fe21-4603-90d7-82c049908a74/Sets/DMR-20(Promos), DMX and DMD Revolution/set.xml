@@ -1831,5 +1831,160 @@
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="66/70" />
 		</card>
+		<card name="Gaiginga, Fighting Revolution" id="cd1e2f30-4a01-48af-828d-53d3b62de22e">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="7" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Gaial Command Dragon" />
+			<property name="Power" value="9000+" />
+			<property name="Rules" value=" Double breaker (This creature breaks 2 shields.).&#xd;&#xa; Speed attacker (This creature doesn't get summoning sickness.)&#xd;&#xa; While battling, this creature gets +4000 power."/>
+			<property name="Rarity" value="" />
+			<property name="Number" value="P4/Y14" />
+		</card>
+		<card name="Gou Toripragon" id="24dbe69f-fc1a-410d-9526-015fb3afc4cc">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Evolution Creature" />
+			<property name="Race" value="Mega Command Dragon" />
+			<property name="Power" value="8000+" />
+			<property name="Rules" value="Evolution—Put on one of your fire creatures.&#xd;&#xa; Double breaker &#xd;&#xa;  Revolution 2—If you have 2 shields or less, this creature gets +8000 power and triple breaker"/>
+			<property name="Rarity" value="Super Rare" />
+			<property name="Number" value="P5/Y14" />
+		</card>
+		<card name="Bikeron, Sonic" id="1eef3c30-f799-45af-b76b-bedb4c52010d">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="8" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Sonic Command / Invader" />
+			<property name="Power" value="8000" />
+			<property name="Rules" value="Double breaker &#xd;&#xa;  When you put this creature into the battle zone, if your opponent has 2 shields or less, destroy all your opponent's creatures that have blocker"/>
+			<property name="Rarity" value="" />
+			<property name="Number" value="P12/Y14" />
+		</card>
+		<card name="Dokan, Revolution Dragon" id="c9a1c88f-4612-4d06-8709-be660704aa8a">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="7" />
+			<property name="Type" value="Evolution Creature" />
+			<property name="Race" value="Mega Command Dragon / Revolutionary" />
+			<property name="Power" value="13000" />
+			<property name="Rules" value="Evolution—Put on one of your fire creatures.&#xd;&#xa; Triple breaker &#xd;&#xa;  Revolution 2—If you have 2 shields or less, each of your other creatures in the battle zone break 2 additional shields."/>
+			<property name="Rarity" value="Super Rare" />
+			<property name="Number" value="P13/Y14" />
+		</card>
+		<card name="Gabble, Super Eureka" id="79eba8a2-bde6-4491-9ebd-d01d6311f73d">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Evolution Creature" />
+			<property name="Race" value="Magic Command / Invader" />
+			<property name="Power" value="7000" />
+			<property name="Rules" value="Evolution—Put on one of your water creatures. &#xd;&#xa; Invasion—Water command &#xd;&#xa; Double breaker&#xd;&#xa; When you put this creature into the battle zone, your opponent reveals the top 5 cards of their deck. Choose a spell from among them and put the rest onto the bottom of their deck. Cast that spell for no cost, then put it into your opponent's graveyard."/>
+			<property name="Rarity" value="Super Rare" />
+			<property name="Number" value="P14/Y14" />
+		</card>
+		<card name="Hero Mystery, Burning Galaxy" id="ce442c44-6fb4-40a1-99c3-f4b3d75f46ff">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="&#8203; Shield trigger &#xd;&#xa;Choose one of your opponent's cards in the battle zone that costs 5 or less and put it into its owner's graveyard.&#xd;&#xa;Mana Arms 7: If you have 7 or more fire cards in your mana zone, choose one of your opponent's cards in the battle zone that costs 12 or less and put it into its owner's graveyard. "/>
+			<property name="Rarity" value="" />
+			<property name="Number" value="P18/Y14" />
+		</card>
+		<card name="Cocco Lupia" id="2e494786-4177-44ea-b164-72063dbe6469">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Fire Bird" />
+			<property name="Power" value="1000" />
+			<property name="Rules" value=" Your creatures that have Dragon in their race each cost 2 less to summon. (Dragonoids don't count.) They can't cost less than 2."/>
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="P20/Y14" />
+		</card>
+		<card name="Terror Pit" id="1cb32986-9860-436d-8f55-a04091a3f784">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="6" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="&#8203; Shield trigger &#xd;&#xa;Destroy one of your opponent's creatures. "/>
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="P23/Y14" />
+		</card>
+		<card name="The Mach, Lightning Sonic" id="4ffba97f-74c0-416b-8253-3062c3d5613f">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Sonic Command / Invader" />
+			<property name="Power" value="5000" />
+			<property name="Rules" value="Speed attacker&#xd;&#xa;When you put this creature into the battle zone, reveal the top 4 cards of your deck. You may may put an evolution creature from among the revealed cards into your hand. Put the rest on the bottom of your deck in any order."/>
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="P35/Y14" />
+		</card>
+		<card name="Forbidden ~Moment of Awakening~" id="4ed99ba9-93d7-4158-bf5a-3c505a23950d">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Forbidden Impulse" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="At the start of your game, include this card into the 5 cards in your hand.&#xd;&#xa;This impulse starts the game in the battle zone with 4 seals on it.&#xd;&#xa;This impulse can't leave the battle zone.&#xd;&#xa;Forbidden Liberate - When this impulse has no seals on it, flip it to its creature side.&#xd;&#xa;(When you seal a card, put the top card of your deck on that card face down. Whenever a Command is put into the battle zone, its owner puts a seal from one of his cards that has the same civilization as that Command into his graveyard. While a creature is sealed, both players ignore that creature.)" />
+			<property name="Rarity" value="" />
+			<property name="Number" value="P37a/Y14" />
+			
+			<alternate name="Forbidden Dokindam" type="awakening">
+				<property name="Format" value="OCG" />
+				<property name="Civilization" value="Fire" />
+				<property name="Cost" value="9" />
+				<property name="Type" value="Forbidden Creature" />
+				<property name="Race" value=""/>
+				<property name="Power" value="99999" />
+				<property name="Rules" value="Double breaker &#xd;&#xa; When this creature Forbidden Liberates, destroy one of your opponent's creatures that has power 6666 or less. &#xd;&#xa;When this creature leaves the battle zone, your opponent chooses one of your shields. Put that shield into your graveyard.&#xd;&#xa;If this creature is anywhere other than the hand or battle zone, put it into your graveyard." />
+				<property name="Rarity" value="" />
+				<property name="Number" value="P37b/Y14" />
+			</alternate>
+		</card>
+		<card name="Red-End, Super Lightning Sonic" id="bdd5d3d2-9c18-444f-8066-dad3715c661f">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Evolution  Creature" />
+			<property name="Race" value="Sonic Command / Invader" />
+			<property name="Power" value="6000" />
+			<property name="Rules" value="Evolution—Put on one of your fire creatures &#xd;&#xa; Invasion—Fire command&#xd;&#xa;Double breaker&#xd;&#xa; When this creature is destroyed, you may put one of the cards that was under it from your graveyard into the battle zone. "/>
+			<property name="Rarity" value="" />
+			<property name="Number" value="P45/Y14" />
+		</card>
+		<card name="Imen=Bugo, Dragon Edge" id="f5fb7fd9-68de-469e-9b3b-a79f235eb1da">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="7" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Beast Folk Go/Draguner" />
+			<property name="Power" value="7000" />
+			<property name="Rules" value="When you put this creature into the battle zone, put a nature dragheart that costs 4 or less from your hyperspatial zone into the battle zone.  (If it's a weapon, equip it to this creature.) &#xd;&#xa; Cards in your mana zone are considered to be cards of every civilization.&#xd;&#xa;Double breaker" />
+			<property name="Rarity" value="" />
+			<property name="Number" value="P53/Y14" />
+		</card>
+		<card name="Perfect Offense" id="91c2d8f1-4d3a-472c-a1be-b3c74090ce3a">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="This turn, whenever any of your dragons attack, they get +10000 power and can't be destroyed while battling."/>
+			<property name="Rarity" value="" />
+			<property name="Number" value="P74/Y14" />
+		</card>
 	</cards>
 </set>

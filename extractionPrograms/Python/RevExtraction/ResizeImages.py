@@ -31,7 +31,7 @@ def resizeImage(img_path = ''):
 
 
 # This function is used to resize all the images in a set, provide only the set images directory, i.e. 'DMR-17-Images'
-def resizeSet(set_name = 'DMX-22-Images'):
+def resizeSet(set_name = 'Y15'):
     # Get current working directory
     dir_path = os.getcwd() + '/' + set_name
     files = os.listdir(dir_path)
@@ -52,4 +52,4 @@ def resizeBlock():
     print('Resize for the entire block has been successful')
 
 
-resizeSet('DMX-22-Images')
+resizeSet('Y15')
