@@ -17,7 +17,7 @@ If you want to help out in adding new sets/images:
 - Fill up the data inside in the same format as other set.xml files
 - Each set, booster pack and card needs its own GUID. You can generate GUIDs on websites like this: https://www.guidgenerator.com/
 - Inside image database, the folders should contain images named to their card IDs.
-- If you have netBeans/java, you can use the extraction programs to quickly get card data and images in a compatible format, but it will require cleaning up later as the program sometimes can't deal with uniques cases on wikia set/card pages.
+- If you have netBeans/java/Python, you can use the extraction programs to quickly get card data and images in a compatible format, but it will require cleaning up later as the program sometimes can't deal with uniques cases on wikia set/card pages.
 
 Note: All images must be 560 px or less in height, and must be in jpg format.
 
@@ -27,11 +27,8 @@ https://github.com/octgn/OCTGN/wiki
 https://github.com/octgn/OCTGN/wiki/OCTGN-Python-3.1.0.2-API-Reference
 
 
-OCTGNGames page:
-https://octgngames.com/dmocg/
-
 Discord server:
 https://discord.gg/Zr23NH2
 
-Forums:
+Forum:
 https://dmoctgn.proboards.com
