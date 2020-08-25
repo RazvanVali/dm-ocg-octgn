@@ -93,7 +93,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Angel Command Dragon/Revolutionary" />
 			<property name="Power" value="7500" />
-			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;Double breaker&#xd;&#xa;Whenever this creature attacks or blocks, draw a card. Then you may cast a spell that costs 7 or less from your hand for no cost." />
+			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203;&#8203; {BLOCKER}&#xd;&#xa;Double breaker&#xd;&#xa;Whenever this creature attacks or blocks, draw a card. Then you may cast a spell that costs 7 or less from your hand for no cost." />
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="19/60" />
 		</card>
@@ -148,7 +148,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Jurassic Command Dragon/Revolutionary" />
 			<property name="Power" value="18500" />
-			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;Quattro breaker(This creature breaks 4 shields)&#xd;&#xa;If you have 7 or more light or nature cards in your mana zone, this creature in your shields gets 'shield trigger'." />
+			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203;&#8203; {BLOCKER}&#xd;&#xa;Quattro breaker(This creature breaks 4 shields)&#xd;&#xa;If you have 7 or more light or nature cards in your mana zone, this creature in your shields gets 'shield trigger'." />
 			<property name="Rarity" value="Super Rare" />
 			<property name="Number" value="31/60" />
 		</card>
@@ -159,7 +159,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Jurassic Dragon/Revolutionary" />
 			<property name="Power" value="4000" />
-			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;This creature can't attack players.&#xd;&#xa;When you put this creature into the battle zone, put the top card of your deck into the mana zone." />
+			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203;&#8203; {BLOCKER}&#xd;&#xa;This creature can't attack players.&#xd;&#xa;When you put this creature into the battle zone, put the top card of your deck into the mana zone." />
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="33/60" />
 		</card>
@@ -170,7 +170,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Put up to 2 non-evolution light creatures that have 'blocker' from your hand into the battle zone." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Put up to 2 non-evolution light creatures that have 'blocker' from your hand into the battle zone." />
 			<property name="Rarity" value="Rare" />
 			<property name="Number" value="34/60" />
 		</card>
@@ -225,7 +225,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Magic Command/Master Initials" />
 			<property name="Power" value="6000" />
-			<property name="Rules" value="&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;When you put this creature into the battle zone, if you have a D2 Field in the battle zone, shuffle all creatures in the graveyard into your deck. Then draw the same number of cards." />
+			<property name="Rules" value="&#8203;&#8203; {BLOCKER}&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;When you put this creature into the battle zone, if you have a D2 Field in the battle zone, shuffle all creatures in the graveyard into your deck. Then draw the same number of cards." />
 			<property name="Rarity" value="Super Rare" />
 			<property name="Number" value="49/60" />
 		</card>
@@ -401,7 +401,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Apollonia Dragon/Armored Dragon/Earth Dragon" />
 			<property name="Power" value="3500" />
-			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;When you put this creature into the battle zone, you may put the top 2 cards of your deck into your mana zone tapped." />
+			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203;&#8203; {BLOCKER}&#xd;&#xa;When you put this creature into the battle zone, you may put the top 2 cards of your deck into your mana zone tapped." />
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="5/54" />
 		</card>
@@ -412,7 +412,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Apollonia Dragon/Armored Dragon/Earth Dragon" />
 			<property name="Power" value="3500" />
-			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;When you put this creature into the battle zone, you may put the top 2 cards of your deck into your mana zone tapped." />
+			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203;&#8203; {BLOCKER}&#xd;&#xa;When you put this creature into the battle zone, you may put the top 2 cards of your deck into your mana zone tapped." />
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="5s/54" />
 		</card>
@@ -456,7 +456,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Put up to 2 non-evolution light creatures that have 'blocker' from your hand into the battle zone." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Put up to 2 non-evolution light creatures that have 'blocker' from your hand into the battle zone." />
 			<property name="Rarity" value="Rare" />
 			<property name="Number" value="12/54" />
 		</card>
@@ -467,7 +467,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Tap all your opponent's creatures in the battle zone.&#xd;&#xa;If you have 2 or less shields, add the top card of your deck to your shields face down." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Tap all your opponent's creatures in the battle zone.&#xd;&#xa;If you have 2 or less shields, add the top card of your deck to your shields face down." />
 			<property name="Rarity" value="Rare" />
 			<property name="Number" value="13/54" />
 		</card>
@@ -489,7 +489,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Each player puts all their creatures in the battle zone that cost the same as or more than the number of cards in their mana zones on the bottom of their decks." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Each player puts all their creatures in the battle zone that cost the same as or more than the number of cards in their mana zones on the bottom of their decks." />
 			<property name="Rarity" value="Rare" />
 			<property name="Number" value="15/54" />
 		</card>
@@ -500,7 +500,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Cast a spell that costs 7 or less from your graveyard for no cost. After you cast that spell, put it on the bottom of your deck." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Cast a spell that costs 7 or less from your graveyard for no cost. After you cast that spell, put it on the bottom of your deck." />
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="17/54" />
 		</card>
@@ -511,7 +511,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Dark Knightmare" />
 			<property name="Power" value="4000" />
-			<property name="Rules" value="&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;This creature can't attack.&#xd;&#xa;At the end of each of your turns, you may put the top card of your deck into your graveyard. If it's a creature, draw a card." />
+			<property name="Rules" value="&#8203;&#8203; {BLOCKER}&#xd;&#xa;This creature can't attack.&#xd;&#xa;At the end of each of your turns, you may put the top card of your deck into your graveyard. If it's a creature, draw a card." />
 			<property name="Rarity" value="Rare" />
 			<property name="Number" value="18/54" />
 		</card>
@@ -533,7 +533,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Destroy one of your opponent's untapped creatures. You may put a non-evolution creature that costs less than the destroyed creature from your graveyard into the battle zone." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Destroy one of your opponent's untapped creatures. You may put a non-evolution creature that costs less than the destroyed creature from your graveyard into the battle zone." />
 			<property name="Rarity" value="Rare" />
 			<property name="Number" value="20/54" />
 		</card>
@@ -588,7 +588,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Liquid People" />
 			<property name="Power" value="2000" />
-			<property name="Rules" value="&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;When you put this creature into the battle zone, you may add a card from your hand to your shields face down. If you do, choose one of your shields and put it into your hand. You can't use the 'shield trigger' ability of that shield." />
+			<property name="Rules" value="&#8203;&#8203; {BLOCKER}&#xd;&#xa;When you put this creature into the battle zone, you may add a card from your hand to your shields face down. If you do, choose one of your shields and put it into your hand. You can't use the 'shield trigger' ability of that shield." />
 			<property name="Rarity" value="Uncommon" />
 			<property name="Number" value="25/54" />
 		</card>
@@ -610,7 +610,7 @@
 			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Death Puppet" />
 			<property name="Power" value="1000" />
-			<property name="Rules" value="&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;Graveyard evolution - Choose a darkness creature in your graveyard and put this card into the battle zone on top of that creature.&#xd;&#xa;Whenever this creature battles, your opponent's creature gets -4000 power until the end of the battle.(A creature that has power 0 or less is destroyed)" />
+			<property name="Rules" value="&#8203;&#8203; {BLOCKER}&#xd;&#xa;Graveyard evolution - Choose a darkness creature in your graveyard and put this card into the battle zone on top of that creature.&#xd;&#xa;Whenever this creature battles, your opponent's creature gets -4000 power until the end of the battle.(A creature that has power 0 or less is destroyed)" />
 			<property name="Rarity" value="Uncommon" />
 			<property name="Number" value="27/54" />
 		</card>
@@ -621,7 +621,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Put a non-evolution creature that costs 7 or less from your graveyard into the battle zone." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Put a non-evolution creature that costs 7 or less from your graveyard into the battle zone." />
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="28/54" />
 		</card>
@@ -676,7 +676,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Angel Dragon/Revolutionary" />
 			<property name="Power" value="3500" />
-			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203; Shield trigger(When this Card Type is put into your hand from your shield zone, you may use it for no cost)&#xd;&#xa;&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;When you put this creature into the battle zone, choose one of your opponent’s creatures. Until the start of your next turn, that creature can't attack or block." />
+			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203; Shield trigger(When this Card Type is put into your hand from your shield zone, you may use it for no cost)&#xd;&#xa;&#8203;&#8203; {BLOCKER}&#xd;&#xa;When you put this creature into the battle zone, choose one of your opponent’s creatures. Until the start of your next turn, that creature can't attack or block." />
 			<property name="Rarity" value="Uncommon" />
 			<property name="Number" value="33/54" />
 		</card>
@@ -687,7 +687,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="(This spell is put into your mana zone tapped)&#xd;&#xa;&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Choose one of the following. If you have a creature that has 'Bolmeteus' in its name in the battle zone, you may choose both." />
+			<property name="Rules" value="(This spell is put into your mana zone tapped)&#xd;&#xa;&#8203; {SHIELD TRIGGER}&#xd;&#xa;Choose one of the following. If you have a creature that has 'Bolmeteus' in its name in the battle zone, you may choose both." />
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="34/54" />
 		</card>
@@ -841,7 +841,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Destroy one of your opponent's creatures that costs 9 or less." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Destroy one of your opponent's creatures that costs 9 or less." />
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="48/54" />
 		</card>
@@ -885,7 +885,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Put the top card of your deck into your mana zone." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Put the top card of your deck into your mana zone." />
 			<property name="Rarity" value="Common" />
 			<property name="Number" value="53/54" />
 		</card>
@@ -1031,7 +1031,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Angel Command/Zenith" />
 			<property name="Power" value="13000" />
-			<property name="Rules" value="&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;Triple breaker(This creature breaks 3 shields)&#xd;&#xa;When you summon this creature into the battle zone, you may draw 3 cards. Then you may put up to 3 cards from your hand to your shields face down.&#xd;&#xa;When one of the opponent's creatures breaks one or more of your shields for the first time in a turn, each of your Light cards in those shields gets 'shield trigger'." />
+			<property name="Rules" value="&#8203;&#8203; {BLOCKER}&#xd;&#xa;Triple breaker(This creature breaks 3 shields)&#xd;&#xa;When you summon this creature into the battle zone, you may draw 3 cards. Then you may put up to 3 cards from your hand to your shields face down.&#xd;&#xa;When one of the opponent's creatures breaks one or more of your shields for the first time in a turn, each of your Light cards in those shields gets 'shield trigger'." />
 			<property name="Rarity" value="Super Rare" />
 			<property name="Number" value="S2/S10" />
 		</card>
@@ -1152,7 +1152,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="(This spell is put into your mana zone tapped)&#xd;&#xa;&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Choose one of your opponent's creatures in the battle zone that has power 6000 or more and return it to its owner's hand. Then, destroy one of your opponent's creatures that has power 6000 or less." />
+			<property name="Rules" value="(This spell is put into your mana zone tapped)&#xd;&#xa;&#8203; {SHIELD TRIGGER}&#xd;&#xa;Choose one of your opponent's creatures in the battle zone that has power 6000 or more and return it to its owner's hand. Then, destroy one of your opponent's creatures that has power 6000 or less." />
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="6/51" />
 		</card>
@@ -1163,7 +1163,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Choose one of your opponent's creatures and tap it.&#xd;&#xa;Draw a card.&#xd;&#xa;Put the top card of your deck into your mana zone." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Choose one of your opponent's creatures and tap it.&#xd;&#xa;Draw a card.&#xd;&#xa;Put the top card of your deck into your mana zone." />
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="7/51" />
 		</card>
@@ -1285,7 +1285,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Mecha Del Sol/Alien" />
 			<property name="Power" value="2500" />
-			<property name="Rules" value="&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;This creature can't attack players.&#xd;&#xa;When this creature would leave the battle zone, if this creature has more than 0 power, it stays in the battle zone instead." />
+			<property name="Rules" value="&#8203;&#8203; {BLOCKER}&#xd;&#xa;This creature can't attack players.&#xd;&#xa;When this creature would leave the battle zone, if this creature has more than 0 power, it stays in the battle zone instead." />
 			<property name="Rarity" value="Rare" />
 			<property name="Number" value="29/51" />
 		</card>
@@ -1296,7 +1296,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Tap all your opponent's creatures in the battle zone.&#xd;&#xa;If you have 2 or less shields, add the top card of your deck to your shields face down." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Tap all your opponent's creatures in the battle zone.&#xd;&#xa;If you have 2 or less shields, add the top card of your deck to your shields face down." />
 			<property name="Rarity" value="Rare" />
 			<property name="Number" value="30/51" />
 		</card>
@@ -1307,7 +1307,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;You may put an Outrage that costs 7 or less from your hand into the battle zone. If you do, choose one of your opponent's creatures in the battle zone and the 2 creatures battle. Then, destroy that Outrage." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;You may put an Outrage that costs 7 or less from your hand into the battle zone. If you do, choose one of your opponent's creatures in the battle zone and the 2 creatures battle. Then, destroy that Outrage." />
 			<property name="Rarity" value="Rare" />
 			<property name="Number" value="31/51" />
 		</card>
@@ -1329,7 +1329,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Choose one of your opponent's creatures in the battle zone and put it into his mana zone." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Choose one of your opponent's creatures in the battle zone and put it into his mana zone." />
 			<property name="Rarity" value="Rare" />
 			<property name="Number" value="34/51" />
 		</card>
@@ -1419,7 +1419,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Your opponent discards a card at random from his hand." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Your opponent discards a card at random from his hand." />
 			<property name="Rarity" value="Common" />
 			<property name="Number" value="49/51" />
 		</card>
@@ -1509,7 +1509,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Angel Command Dragon" />
 			<property name="Power" value="7500" />
-			<property name="Rules" value="&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;Whenever one of your Dragons attacks or blocks, you may add the top card of your deck to your shields face down.&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;When your opponent would choose a creature in the battle zone by the effect of a non-Light spell, they can't choose this one." />
+			<property name="Rules" value="&#8203;&#8203; {BLOCKER}&#xd;&#xa;Whenever one of your Dragons attacks or blocks, you may add the top card of your deck to your shields face down.&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;When your opponent would choose a creature in the battle zone by the effect of a non-Light spell, they can't choose this one." />
 			<property name="Rarity" value="Super Rare" />
 			<property name="Number" value="S1/S5" />
 		</card>
@@ -1608,7 +1608,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Put a non-evolution Light dragon that costs 7 or less from your hand into the battle zone. That creature gets 'blocker' until the start of your next turn." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Put a non-evolution Light dragon that costs 7 or less from your hand into the battle zone. That creature gets 'blocker' until the start of your next turn." />
 			<property name="Rarity" value="Rare" />
 			<property name="Number" value="17/54" />
 		</card>
@@ -1663,7 +1663,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Gaial Command Dragon" />
 			<property name="Power" value="7000" />
-			<property name="Rules" value="&#8203;  Shield trigger(When this creature is put into your hand from your shield zone, you may summon it for no cost)&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;When you put this creature into the battle zone, choose one of your opponent's creatures in the battle zone. That creature and this creature battle.&#xd;&#xa;When you put this creature into the battle zone during your opponent's turn, put this creature on the bottom of your deck at the end of the turn." />
+			<property name="Rules" value="&#8203;  {SHIELD TRIGGER}&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;When you put this creature into the battle zone, choose one of your opponent's creatures in the battle zone. That creature and this creature battle.&#xd;&#xa;When you put this creature into the battle zone during your opponent's turn, put this creature on the bottom of your deck at the end of the turn." />
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="27/54" />
 		</card>
@@ -1752,7 +1752,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Choose one of your opponent's creatures in the battle zone. That creature gets -3000 power until the end of the turn.(A creature that has power 0 or less is destroyed)&#xd;&#xa;Mana Arms 5: If you have 5 or more darkness cards in your mana zone, destroy one of your opponent's creatures." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Choose one of your opponent's creatures in the battle zone. That creature gets -3000 power until the end of the turn.(A creature that has power 0 or less is destroyed)&#xd;&#xa;Mana Arms 5: If you have 5 or more darkness cards in your mana zone, destroy one of your opponent's creatures." />
 			<property name="Rarity" value="Rare" />
 			<property name="Number" value="40/54" />
 		</card>
@@ -1829,7 +1829,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Fire Bird En/Revolutionary" />
 			<property name="Power" value="2000" />
-			<property name="Rules" value="&#8203;  Shield trigger(When this creature is put into your hand from your shield zone, you may summon it for no cost)&#xd;&#xa;When you put this creature into the battle zone, you may destroy one of your opponent's creatures that costs 3 or less." />
+			<property name="Rules" value="&#8203;  {SHIELD TRIGGER}&#xd;&#xa;When you put this creature into the battle zone, you may destroy one of your opponent's creatures that costs 3 or less." />
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="3/13" />
 		</card>
@@ -1873,7 +1873,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Angel Dragon/Revolutionary" />
 			<property name="Power" value="3500" />
-			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203; Shield trigger(When this Card Type is put into your hand from your shield zone, you may use it for no cost)&#xd;&#xa;&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;When you put this creature into the battle zone, choose one of your opponent’s creatures. Until the start of your next turn, that creature can't attack or block." />
+			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203; Shield trigger(When this Card Type is put into your hand from your shield zone, you may use it for no cost)&#xd;&#xa;&#8203;&#8203; {BLOCKER}&#xd;&#xa;When you put this creature into the battle zone, choose one of your opponent’s creatures. Until the start of your next turn, that creature can't attack or block." />
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="3/13" />
 		</card>
@@ -1884,7 +1884,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Angel Dragon/Revolutionary" />
 			<property name="Power" value="3000" />
-			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;When you put this creature into the battle zone, you may add a card from your hand to your shields face down." />
+			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203;&#8203; {BLOCKER}&#xd;&#xa;When you put this creature into the battle zone, you may add a card from your hand to your shields face down." />
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="4/13" />
 		</card>
@@ -1906,7 +1906,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="(This spell is put into your mana zone tapped)&#xd;&#xa;&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Choose one of the following." />
+			<property name="Rules" value="(This spell is put into your mana zone tapped)&#xd;&#xa;&#8203; {SHIELD TRIGGER}&#xd;&#xa;Choose one of the following." />
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="7/13" />
 		</card>
@@ -1961,7 +1961,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Destroy one of your opponent's creatures." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Destroy one of your opponent's creatures." />
 			<property name="Rarity" value="Rare" />
 			<property name="Number" value="7/12" />
 		</card>
@@ -1972,7 +1972,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Angel Command" />
 			<property name="Power" value="9500" />
-			<property name="Rules" value="&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;When you put this creature into the battle zone, you may put a non-evolution light creature that has 'blocker' from your hand into the battle zone." />
+			<property name="Rules" value="&#8203;&#8203; {BLOCKER}&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;When you put this creature into the battle zone, you may put a non-evolution light creature that has 'blocker' from your hand into the battle zone." />
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="1/15" />
 		</card>
@@ -1983,7 +1983,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Angel Command/Apollonia Dragon" />
 			<property name="Power" value="7500" />
-			<property name="Rules" value="&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;When you put this creature into the battle zone, look at the top 5 cards of your deck. From among them, you may take a spell, show that spell to your opponent and add it to your hand. Then put the rest on the bottom of your deck in any order.&#xd;&#xa;When you put this creature into the battle zone, you may cast a spell from your hand that has 'Spark' in its name for no cost." />
+			<property name="Rules" value="&#8203;&#8203; {BLOCKER}&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;When you put this creature into the battle zone, look at the top 5 cards of your deck. From among them, you may take a spell, show that spell to your opponent and add it to your hand. Then put the rest on the bottom of your deck in any order.&#xd;&#xa;When you put this creature into the battle zone, you may cast a spell from your hand that has 'Spark' in its name for no cost." />
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="2/15" />
 		</card>
@@ -2016,7 +2016,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Angel Command" />
 			<property name="Power" value="4000" />
-			<property name="Rules" value="&#8203;  Shield trigger(When this creature is put into your hand from your shield zone, you may summon it for no cost)&#xd;&#xa;&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;This creature can't attack players.&#xd;&#xa;When you put this creature into the battle zone, tap or untap a creature in the battle zone." />
+			<property name="Rules" value="&#8203;  {SHIELD TRIGGER}&#xd;&#xa;&#8203;&#8203; {BLOCKER}&#xd;&#xa;This creature can't attack players.&#xd;&#xa;When you put this creature into the battle zone, tap or untap a creature in the battle zone." />
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="7/15" />
 		</card>
@@ -2027,7 +2027,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Choose one of the following. If you have an Angel Command in the battle zone, you may choose both:" />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Choose one of the following. If you have an Angel Command in the battle zone, you may choose both:" />
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="8/15" />
 		</card>
@@ -2038,7 +2038,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Angel Command Dragon" />
 			<property name="Power" value="5500" />
-			<property name="Rules" value="&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;When you put this creature into the battle zone, you may choose one of your shields and add it to your hand. Then you may add a card from your hand to your shields face down.(You may use 'shield trigger' ability of a shield added put into your hand in this way)" />
+			<property name="Rules" value="&#8203;&#8203; {BLOCKER}&#xd;&#xa;When you put this creature into the battle zone, you may choose one of your shields and add it to your hand. Then you may add a card from your hand to your shields face down.(You may use 'shield trigger' ability of a shield added put into your hand in this way)" />
 			<property name="Rarity" value="Rare" />
 			<property name="Number" value="11/15" />
 		</card>
@@ -2104,7 +2104,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Demon Command/Beast Folk" />
 			<property name="Power" value="3000" />
-			<property name="Rules" value="&#8203;  Shield trigger(When this creature is put into your hand from your shield zone, you may summon it for no cost)&#xd;&#xa;When you put this creature into the battle zone, you may return a card from your mana zone or graveyard to your hand." />
+			<property name="Rules" value="&#8203;  {SHIELD TRIGGER}&#xd;&#xa;When you put this creature into the battle zone, you may return a card from your mana zone or graveyard to your hand." />
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="10/19" />
 		</card>
@@ -2170,7 +2170,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Turn Dogiragon Gacha twice. Each time you do, use its ability." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Turn Dogiragon Gacha twice. Each time you do, use its ability." />
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="4/13" />
 		</card>
@@ -2181,7 +2181,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Reveal the top card of your deck then choose one of the following." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Reveal the top card of your deck then choose one of the following." />
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="5/13" />
 		</card>
@@ -2247,7 +2247,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Put the top card of your deck into your mana zone." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Put the top card of your deck into your mana zone." />
 			<property name="Rarity" value="" />
 			<property name="Number" value="" />
 		</card>
@@ -2302,7 +2302,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Turn Dokindam Gacha twice. Each time you do, use its ability." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Turn Dokindam Gacha twice. Each time you do, use its ability." />
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="5/12" />
 		</card>
@@ -2369,7 +2369,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Choose one of your opponent's cards in the battle zone that costs 5 or less and put it into its owner's graveyard.&#xd;&#xa;&#8203;Mana Arms 7: If you have 7 or more fire cards in your mana zone, choose one of your opponent's cards in the battle zone that costs 12 or less and put it into its owner's graveyard." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Choose one of your opponent's cards in the battle zone that costs 5 or less and put it into its owner's graveyard.&#xd;&#xa;&#8203;Mana Arms 7: If you have 7 or more fire cards in your mana zone, choose one of your opponent's cards in the battle zone that costs 12 or less and put it into its owner's graveyard." />
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="P3/Y15" />
 		</card>

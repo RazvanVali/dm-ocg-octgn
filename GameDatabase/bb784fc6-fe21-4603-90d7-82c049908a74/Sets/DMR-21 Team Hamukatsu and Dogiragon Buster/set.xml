@@ -159,7 +159,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Mecha Del Sol" />
 			<property name="Power" value="7500" />
-			<property name="Rules" value="&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;Whenever this creature attacks, tap all non-light creatures in the battle zone.&#xd;&#xa;When this creature would leave the battle zone, if it's untapped, it stays in the battle zone instead." />
+			<property name="Rules" value="&#8203;&#8203; {BLOCKER}&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;Whenever this creature attacks, tap all non-light creatures in the battle zone.&#xd;&#xa;When this creature would leave the battle zone, if it's untapped, it stays in the battle zone instead." />
 			<property name="Rarity" value="Very Rare" />
 			<property name="Number" value="1/94" />
 		</card>
@@ -225,7 +225,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Angel Command/Revolutionary/Invader" />
 			<property name="Power" value="12500" />
-			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;Triple breaker(This creature breaks 3 shields)&#xd;&#xa;Your opponent's creatures break 1 less shield." />
+			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203;&#8203; {BLOCKER}&#xd;&#xa;Triple breaker(This creature breaks 3 shields)&#xd;&#xa;Your opponent's creatures break 1 less shield." />
 			<property name="Rarity" value="Very Rare" />
 			<property name="Number" value="7/94" />
 		</card>
@@ -390,7 +390,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Jurassic Command Dragon/Revolutionary/Team Damama" />
 			<property name="Power" value="7500" />
-			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;Revolution Change - Light or Nature dragon (When one of your light or nature dragons  attack, you may switch that creature with this creature from your hand)&#xd;&#xa;&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;When you put this creature into the battle zone, put the top card of your deck into your mana zone. Then you may return a multicolored card from your mana zone to your hand." />
+			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;Revolution Change - Light or Nature dragon (When one of your light or nature dragons  attack, you may switch that creature with this creature from your hand)&#xd;&#xa;&#8203;&#8203; {BLOCKER}&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;When you put this creature into the battle zone, put the top card of your deck into your mana zone. Then you may return a multicolored card from your mana zone to your hand." />
 			<property name="Rarity" value="Rare" />
 			<property name="Number" value="22/94" />
 		</card>
@@ -423,7 +423,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Cyber Virus Kai" />
 			<property name="Power" value="1000" />
-			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203;  Shield trigger(When this creature is put into your hand from your shield zone, you may summon it for no cost)&#xd;&#xa;Slayer(Whenever this creature battles, destroy the other creature after the battle)&#xd;&#xa;When you put this creature into the battle zone, choose one of your opponent's non-multicolored creatures and return it to its owner's hand." />
+			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203;  {SHIELD TRIGGER}&#xd;&#xa;Slayer(Whenever this creature battles, destroy the other creature after the battle)&#xd;&#xa;When you put this creature into the battle zone, choose one of your opponent's non-multicolored creatures and return it to its owner's hand." />
 			<property name="Rarity" value="Rare" />
 			<property name="Number" value="25/94" />
 		</card>
@@ -445,7 +445,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Initials" />
 			<property name="Power" value="3000" />
-			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203;  Shield trigger(When this creature is put into your hand from your shield zone, you may summon it for no cost)&#xd;&#xa;When you put this creature into the battle zone, you may destroy one of your creatures. If you do, your opponent chooses one of his untapped creatures and destroys it." />
+			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203;  {SHIELD TRIGGER}&#xd;&#xa;When you put this creature into the battle zone, you may destroy one of your creatures. If you do, your opponent chooses one of his untapped creatures and destroys it." />
 			<property name="Rarity" value="Rare" />
 			<property name="Number" value="27/94" />
 		</card>
@@ -489,7 +489,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Mecha Del Sol" />
 			<property name="Power" value="2500" />
-			<property name="Rules" value="&#8203;  Shield trigger(When this creature is put into your hand from your shield zone, you may summon it for no cost)&#xd;&#xa;&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;Shield Saver(When one of your shields would be broken, you may destroy this creature instead)&#xd;&#xa;This creature can't attack players." />
+			<property name="Rules" value="&#8203;  {SHIELD TRIGGER}&#xd;&#xa;&#8203;&#8203; {BLOCKER}&#xd;&#xa;Shield Saver(When one of your shields would be broken, you may destroy this creature instead)&#xd;&#xa;This creature can't attack players." />
 			<property name="Rarity" value="Uncommon" />
 			<property name="Number" value="31/94" />
 		</card>
@@ -522,7 +522,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Great Mecha King" />
 			<property name="Power" value="4000" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;When you put this creature into the battle zone, draw up to 2 cards." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;When you put this creature into the battle zone, draw up to 2 cards." />
 			<property name="Rarity" value="Uncommon" />
 			<property name="Number" value="34/94" />
 		</card>
@@ -555,7 +555,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Dark Knightmare" />
 			<property name="Power" value="3000" />
-			<property name="Rules" value="&#8203;  Shield trigger(When this creature is put into your hand from your shield zone, you may summon it for no cost)&#xd;&#xa;When you put this creature into the battle zone, you may destroy one of your creatures. If you do, each of your opponent's creatures gets -2000 power until the end of the turn.(A creature that has power 0 or less is destroyed)" />
+			<property name="Rules" value="&#8203;  {SHIELD TRIGGER}&#xd;&#xa;When you put this creature into the battle zone, you may destroy one of your creatures. If you do, each of your opponent's creatures gets -2000 power until the end of the turn.(A creature that has power 0 or less is destroyed)" />
 			<property name="Rarity" value="Uncommon" />
 			<property name="Number" value="37/94" />
 		</card>
@@ -599,7 +599,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Human Baku/Initials" />
 			<property name="Power" value="3000" />
-			<property name="Rules" value="&#8203;  Shield trigger(When this creature is put into your hand from your shield zone, you may summon it for no cost)&#xd;&#xa;When you put this creature into the battle zone, choose one of your creatures and one of your opponent's creatures. Those 2 creatures battle." />
+			<property name="Rules" value="&#8203;  {SHIELD TRIGGER}&#xd;&#xa;When you put this creature into the battle zone, choose one of your creatures and one of your opponent's creatures. Those 2 creatures battle." />
 			<property name="Rarity" value="Uncommon" />
 			<property name="Number" value="41/94" />
 		</card>
@@ -654,7 +654,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Choose one of your opponent's untapped creatures in the battle zone and put it into its owner's mana zone.&#xd;&#xa;If you have a Team Damama in the battle zone, you may return a multicolored card from your mana zone to your hand." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Choose one of your opponent's untapped creatures in the battle zone and put it into its owner's mana zone.&#xd;&#xa;If you have a Team Damama in the battle zone, you may return a multicolored card from your mana zone to your hand." />
 			<property name="Rarity" value="Uncommon" />
 			<property name="Number" value="46/94" />
 		</card>
@@ -786,7 +786,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Put any number of non-evolution creatures that have a total cost of 4 or less from your hand into the battle zone." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Put any number of non-evolution creatures that have a total cost of 4 or less from your hand into the battle zone." />
 			<property name="Rarity" value="Uncommon" />
 			<property name="Number" value="62/94" />
 		</card>
@@ -808,7 +808,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Starlight Tree/Initials" />
 			<property name="Power" value="4000" />
-			<property name="Rules" value="&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;This creature can't attack players.&#xd;&#xa;You may have 4 or more of this card in your deck." />
+			<property name="Rules" value="&#8203;&#8203; {BLOCKER}&#xd;&#xa;This creature can't attack players.&#xd;&#xa;You may have 4 or more of this card in your deck." />
 			<property name="Rarity" value="Common" />
 			<property name="Number" value="59/94" />
 		</card>
@@ -863,7 +863,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Liquid People Sen/Initials" />
 			<property name="Power" value="3000" />
-			<property name="Rules" value="&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;This creature can't attack players.&#xd;&#xa;When this creature would be destroyed, return it to your hand instead." />
+			<property name="Rules" value="&#8203;&#8203; {BLOCKER}&#xd;&#xa;This creature can't attack players.&#xd;&#xa;When this creature would be destroyed, return it to your hand instead." />
 			<property name="Rarity" value="Common" />
 			<property name="Number" value="65/94" />
 		</card>
@@ -896,7 +896,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Return one of your opponent's creatures to his hand. Then return one of your creatures to your hand." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Return one of your opponent's creatures to his hand. Then return one of your creatures to your hand." />
 			<property name="Rarity" value="Common" />
 			<property name="Number" value="68/94" />
 		</card>
@@ -929,7 +929,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Dark Knightmare/Initials" />
 			<property name="Power" value="4000" />
-			<property name="Rules" value="&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;When this creature wins a battle, destroy it." />
+			<property name="Rules" value="&#8203;&#8203; {BLOCKER}&#xd;&#xa;When this creature wins a battle, destroy it." />
 			<property name="Rarity" value="Common" />
 			<property name="Number" value="71/94" />
 		</card>
@@ -951,7 +951,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Your opponent discards a card at random from his hand." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Your opponent discards a card at random from his hand." />
 			<property name="Rarity" value="Common" />
 			<property name="Number" value="73/94" />
 		</card>
@@ -1017,7 +1017,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Destroy one of your opponent's creatures that has power 1000 or less." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Destroy one of your opponent's creatures that has power 1000 or less." />
 			<property name="Rarity" value="Common" />
 			<property name="Number" value="79/94" />
 		</card>
@@ -1072,7 +1072,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Until the start of your next turn, creatures that have power 3000 or less can't attack." />
+			<property name="Rules" value="&#8203; {SHIELD TRIGGER}&#xd;&#xa;Until the start of your next turn, creatures that have power 3000 or less can't attack." />
 			<property name="Rarity" value="Common" />
 			<property name="Number" value="84/94" />
 		</card>
@@ -1083,7 +1083,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Justice Orb" />
 			<property name="Power" value="2500" />
-			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203;  Shield trigger(When this creature is put into your hand from your shield zone, you may summon it for no cost)&#xd;&#xa;&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)" />
+			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203;  {SHIELD TRIGGER}&#xd;&#xa;&#8203;&#8203; {BLOCKER}" />
 			<property name="Rarity" value="Common" />
 			<property name="Number" value="85/94" />
 		</card>
@@ -1105,7 +1105,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Beast Folk Go" />
 			<property name="Power" value="4500" />
-			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203;  Shield trigger(When this creature is put into your hand from your shield zone, you may summon it for no cost)&#xd;&#xa;&#8203;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;This creature can't attack players.&#xd;&#xa;When this creature would be destroyed, put it into your mana zone instead." />
+			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203;  {SHIELD TRIGGER}&#xd;&#xa;&#8203;&#8203; {BLOCKER}&#xd;&#xa;This creature can't attack players.&#xd;&#xa;When this creature would be destroyed, put it into your mana zone instead." />
 			<property name="Rarity" value="Common" />
 			<property name="Number" value="87/94" />
 		</card>
@@ -1171,7 +1171,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Fire Bird En" />
 			<property name="Power" value="3000" />
-			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203;  Shield trigger(When this creature is put into your hand from your shield zone, you may summon it for no cost)&#xd;&#xa;When you put this creature into the battle zone, destroy one of your opponent's creatures that costs 4 or less." />
+			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203;  {SHIELD TRIGGER}&#xd;&#xa;When you put this creature into the battle zone, destroy one of your opponent's creatures that costs 4 or less." />
 			<property name="Rarity" value="Common" />
 			<property name="Number" value="93/94" />
 		</card>

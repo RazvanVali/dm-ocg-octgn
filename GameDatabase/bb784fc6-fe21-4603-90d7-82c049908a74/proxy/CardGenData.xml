@@ -220,7 +220,7 @@
   				</if>
 			</conditional>  
 			
-			 <conditional>
+			<conditional>
 				<if property="Rules" contains="{SHIELD TRIGGER}">
 					<link block="sTrig" />
   				</if>
