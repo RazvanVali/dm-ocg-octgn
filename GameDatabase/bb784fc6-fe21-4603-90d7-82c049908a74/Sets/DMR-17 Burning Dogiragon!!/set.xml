@@ -306,7 +306,6 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Justice Orb/Revolutionary" />
 			<property name="Power" value="4000" />
-			<property name="Rules" value="&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;This creature can't attack players.&#xd;&#xa;When you put this creature into the battle zone, if your opponent has more cards in his mana zone than you have in yours, put the top 2 cards of your deck into your mana zone" />
 			<property name="Rules" value="{BLOCKER}&#xd;&#xa;This creature can't attack players.&#xd;&#xa;When you put this creature into the battle zone, if your opponent has more cards in his mana zone than you have in yours, put the top 2 cards of your deck into your mana zone" />
 			<property name="Rarity" value="Rare" />
 			<property name="Number" value="14/94" />
