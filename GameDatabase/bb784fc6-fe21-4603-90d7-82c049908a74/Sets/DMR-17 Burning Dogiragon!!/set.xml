@@ -174,7 +174,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Angel Command Dragon" />
 			<property name="Power" value="7000" />
-			<property name="Rules" value="&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;Your light creatures that cost 6 or less win all battles.&#xd;&#xa;Whenever your opponent would choose a creature in the battle zone by a spell effect, they can't choose this one." />
+			<property name="Rules" value="{BLOCKER}&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;Your light creatures that cost 6 or less win all battles.&#xd;&#xa;Whenever your opponent would choose a creature in the battle zone by a spell effect, they can't choose this one." />
 			<property name="Rarity" value="Very Rare" />
 			<property name="Number" value="2/94" />
 		</card>
@@ -307,6 +307,7 @@
 			<property name="Race" value="Justice Orb/Revolutionary" />
 			<property name="Power" value="4000" />
 			<property name="Rules" value="&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;This creature can't attack players.&#xd;&#xa;When you put this creature into the battle zone, if your opponent has more cards in his mana zone than you have in yours, put the top 2 cards of your deck into your mana zone" />
+			<property name="Rules" value="{BLOCKER}&#xd;&#xa;This creature can't attack players.&#xd;&#xa;When you put this creature into the battle zone, if your opponent has more cards in his mana zone than you have in yours, put the top 2 cards of your deck into your mana zone" />
 			<property name="Rarity" value="Rare" />
 			<property name="Number" value="14/94" />
 		</card>
@@ -812,7 +813,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Justice Orb" />
 			<property name="Power" value="6000" />
-			<property name="Rules" value="&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;This creature can't attack players." />
+			<property name="Rules" value="{BLOCKER}&#xd;&#xa;This creature can't attack players." />
 			<property name="Rarity" value="Uncommon" />
 			<property name="Number" value="60/94" />
 		</card>
@@ -856,7 +857,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Justice Orb" />
 			<property name="Power" value="2000" />
-			<property name="Rules" value="{SHIELD TRIGGER} &#xd;&#xa;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;This creature can't attack players." />
+			<property name="Rules" value="{SHIELD TRIGGER} &#xd;&#xa;&#8203; {BLOCKER}&#xd;&#xa;This creature can't attack players." />
 			<property name="Rarity" value="Common" />
 			<property name="Number" value="64/94" />
 		</card>
@@ -889,7 +890,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Cyber Virus Kai/Revolutionary" />
 			<property name="Power" value="5000" />
-			<property name="Rules" value="&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;This creature can't attack.&#xd;&#xa;When you put this creature into the battle zone, draw a card." />
+			<property name="Rules" value="{BLOCKER}&#xd;&#xa;This creature can't attack.&#xd;&#xa;When you put this creature into the battle zone, draw a card." />
 			<property name="Rarity" value="Common" />
 			<property name="Number" value="67/94" />
 		</card>
@@ -922,7 +923,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Cyber Virus" />
 			<property name="Power" value="2000" />
-			<property name="Rules" value="&#8203; Blocker(When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle)&#xd;&#xa;This creature can't attack." />
+			<property name="Rules" value="{BLOCKER}&#xd;&#xa;This creature can't attack." />
 			<property name="Rarity" value="Common" />
 			<property name="Number" value="70/94" />
 		</card>
@@ -955,7 +956,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Demon Command/Invader" />
 			<property name="Power" value="4000" />
-			<property name="Rules" value="&#8203;  Shield trigger(When this creature is put into your hand from your shield zone, you may summon it for no cost)" />
+			<property name="Rules" value="{SHIELD TRIGGER}" />
 			<property name="Rarity" value="Common" />
 			<property name="Number" value="73/94" />
 		</card>
@@ -966,7 +967,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Demon Command Dragon" />
 			<property name="Power" value="4000" />
-			<property name="Rules" value="&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;Slayer(Whenever this creature battles, destroy the other creature after the battle)&#xd;&#xa;When this creature wins a battle, destroy it." />
+			<property name="Rules" value="{BLOCKER}&#xd;&#xa;Slayer(Whenever this creature battles, destroy the other creature after the battle)&#xd;&#xa;When this creature wins a battle, destroy it." />
 			<property name="Rarity" value="Common" />
 			<property name="Number" value="74/94" />
 		</card>
@@ -999,7 +1000,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Dark Knightmare/Revolutionary" />
 			<property name="Power" value="2000" />
-			<property name="Rules" value="&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;This creature can't attack.&#xd;&#xa;When you put this creature into the battle zone, choose one of your opponent's creatures. That creature gets -1000 power until the end of the turn." />
+			<property name="Rules" value="{BLOCKER}&#xd;&#xa;This creature can't attack.&#xd;&#xa;When you put this creature into the battle zone, choose one of your opponent's creatures. That creature gets -1000 power until the end of the turn." />
 			<property name="Rarity" value="Common" />
 			<property name="Number" value="77/94" />
 		</card>
@@ -1021,7 +1022,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Your opponent discards a card at random from his hand." />
+			<property name="Rules" value="{SHIELD TRIGGER}&#xd;&#xa;Your opponent discards a card at random from his hand." />
 			<property name="Rarity" value="Common" />
 			<property name="Number" value="79/94" />
 		</card>
@@ -1032,7 +1033,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Sonic Command/Invader" />
 			<property name="Power" value="5000" />
-			<property name="Rules" value="&#8203;  Shield trigger(When this creature is put into your hand from your shield zone, you may summon it for no cost)&#xd;&#xa;This creature attacks each turn if able." />
+			<property name="Rules" value="{SHIELD TRIGGER}&#xd;&#xa;This creature attacks each turn if able." />
 			<property name="Rarity" value="Common" />
 			<property name="Number" value="80/94" />
 		</card>
@@ -1098,7 +1099,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Destroy one of your opponent's creatures that has power 6000 or less.&#xd;&#xa;Discard a card from your hand." />
+			<property name="Rules" value="{SHIELD TRIGGER}&#xd;&#xa;Destroy one of your opponent's creatures that has power 6000 or less.&#xd;&#xa;Discard a card from your hand." />
 			<property name="Rarity" value="Common" />
 			<property name="Number" value="86/94" />
 		</card>
@@ -1120,7 +1121,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Guerrilla Command/Invader" />
 			<property name="Power" value="5000" />
-			<property name="Rules" value="&#8203;  Shield trigger(When this creature is put into your hand from your shield zone, you may summon it for no cost)" />
+			<property name="Rules" value="{SHIELD TRIGGER}" />
 			<property name="Rarity" value="Common" />
 			<property name="Number" value="88/94" />
 		</card>
@@ -1186,7 +1187,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Put the top card of your deck into your mana zone." />
+			<property name="Rules" value="{SHIELD TRIGGER}&#xd;&#xa;Put the top card of your deck into your mana zone." />
 			<property name="Rarity" value="Common" />
 			<property name="Number" value="94/94" />
 		</card>
