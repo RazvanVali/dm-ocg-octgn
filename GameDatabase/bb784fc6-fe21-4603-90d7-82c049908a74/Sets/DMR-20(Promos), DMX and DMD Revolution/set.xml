@@ -497,7 +497,7 @@
 		</card>
 		<card name="Victorage Outlaw Cosmo Alchemy Kung Fu Horn Blues Cli Byte Hell Shen Gunman Gonbutreasure Friends Cross Robin Michaelan Global, Team Exile ~Katsudon and Friends~" id="61f2140f-9740-44b2-878c-7d4b4ffdd0bd">
 			<property name="Format" value="OCG" />
-			<property name="Civilization" value="Fire/Water/Nature/Darkness/Light" />
+			<property name="Civilization" value="Light/Water/Darkness/Fire/Nature" />
 			<property name="Cost" value="100" />
 			<property name="Type" value="Exile Creature" />
 			<property name="Race" value="Outrage MAX" />
@@ -809,7 +809,7 @@
 		</card>
 		<card name="Ultimate Man" id="152d31ca-cd03-4563-b5e8-4989315eb341">
 			<property name="Format" value="OCG" />
-			<property name="Civilization" value="Fire/Water/Nature/Darkness/Light" />
+			<property name="Civilization" value="Light/Water/Darkness/Fire/Nature" />
 			<property name="Cost" value="5" />
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Outrage/Hedrian/Shinobi/Dynamo/Hunter/Children/Lost Crusader/Curry Bread/Pianist/World Idol" />
@@ -866,7 +866,7 @@
 		</card>
 		<card name="Nicol Bolas" id="992ec04e-92c0-44df-9014-cfcf43f1d00c">
 			<property name="Format" value="OCG" />
-			<property name="Civilization" value="Water/Fire/Darkness" />
+			<property name="Civilization" value="Water/Darkness/Fire" />
 			<property name="Cost" value="8" />
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Elder Dragon/Planeswalker" />
